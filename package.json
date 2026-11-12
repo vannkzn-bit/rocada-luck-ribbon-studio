@@ -1,0 +1,1 @@
+{"name":"luck-ribbon-studio","version":"1.0.0","private":true,"description":"Standalone design sandbox based on Popmechanic/Mindbox lucky tape templates; no platform integration","scripts":{"start":"node server.cjs","test":"node tests.cjs"}}
